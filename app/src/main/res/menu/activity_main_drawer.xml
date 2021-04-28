@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/covid19twitter"
+            android:icon="@drawable/click"
+            android:title="Covid19twitter"
+            android:menuCategory="secondary"
+            />
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/click"
+            android:title="IndiaPlasmaDonor"
+            android:menuCategory="secondary"
+            />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/click"
+            android:title ="CovidHelpGroup"
+            android:menuCategory="secondary"
+            />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/click"
+            android:title="CovidFightClub"
+            android:menuCategory="secondary"
+             />
+        <item
+            android:id="@+id/foxnewsfragment"
+            android:icon="@drawable/click"
+            android:title="CovidResourcesIndia"
+            android:menuCategory="secondary"
+            />
+        <item
+            android:id="@+id/skynewsfragment"
+            android:icon="@drawable/click"
+            android:title="CovidResourcesGlideapp"
+            android:menuCategory="secondary"
+            />
+        <item
+            android:id="@+id/covidhelpline2"
+            android:icon="@drawable/click"
+            android:title="Covid19HelpIndia"
+            android:menuCategory="secondary"
+            />
+
+
+
+
+
+    </group>
+</menu>
